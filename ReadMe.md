@@ -14,6 +14,6 @@
 - **Éviter les gardes** : Restez hors de la ligne de vue des gardes pour éviter d'être capturé.
 
 ## Liens et Ressources
-- [Releases]([lien_vers_les_releases](https://github.com/FaouzKK/Mobile-Game-Escape/releases) : Téléchargez les dernières versions du jeu.
+- [Releases](https://github.com/FaouzKK/Mobile-Game-Escape/releases) : Téléchargez les dernières versions du jeu.
 
 Merci de jouer à Évasion de la Base Militaire et bonne chance dans votre mission d'évasion !
