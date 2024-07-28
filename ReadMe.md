@@ -5,7 +5,7 @@
 
 
 ## Installation
-1. Téléchargez le jeu depuis les [releases](lien_vers_les_releases).
+1. Téléchargez le jeu depuis les [releases](https://github.com/FaouzKK/Mobile-Game-Escape/releases).
 2. Installez l'application sur votre appareil mobile.
 3. Lancez le jeu et commencez votre mission d'évasion !
 
@@ -14,7 +14,6 @@
 - **Éviter les gardes** : Restez hors de la ligne de vue des gardes pour éviter d'être capturé.
 
 ## Liens et Ressources
-- [Releases](lien_vers_les_releases) : Téléchargez les dernières versions du jeu.
-- [Support](lien_vers_le_support) : Obtenez de l'aide et des réponses à vos questions.
+- [Releases]([lien_vers_les_releases](https://github.com/FaouzKK/Mobile-Game-Escape/releases) : Téléchargez les dernières versions du jeu.
 
 Merci de jouer à Évasion de la Base Militaire et bonne chance dans votre mission d'évasion !
